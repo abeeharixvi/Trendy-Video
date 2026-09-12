@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trendy</string>
+    <string name="tagline">Your Videos. Your Phone. Your Feed.</string>
+    <string name="about_headline">Private local video player.</string>
+    <string name="about_privacy">Your videos stay on your device. Trendy does not upload your videos.</string>
+    <string name="developer_info_title">Developer Information</string>
+    <string name="developer_name">Developed by Arbab Rizvi</string>
+    <string name="developer_phone">📞 030383631699</string>
+    <string name="developer_email">✉️ arbabrixvi@gmail.com</string>
+    <string name="developer_phone_raw">030383631699</string>
+    <string name="developer_email_raw">arbabrixvi@gmail.com</string>
+</resources>

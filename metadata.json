@@ -1,0 +1,6 @@
+{
+  "name": "Trendy",
+  "description": "Private, offline, TikTok/Reels-style vertical video player for local phone videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
